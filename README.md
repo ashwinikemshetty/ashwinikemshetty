@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+**I am Full stack web developer.**
 
 - 🔭 I’m currently working on MERN stack
 - 🌱 I’m currently learning React js
